@@ -2,7 +2,7 @@
 
 ## Partially Overlapping Data Power Simulation
 
-This notebook runs simulations to evaluate the statistical power of different tests for comparing two groups with partially overlapping data. 
+This R notebook runs simulations to evaluate the statistical power of different tests for comparing two groups with partially overlapping data. 
 
 The code allows specifying the sample sizes for the paired data (n), unpaired x data (n1), and unpaired y data (n2). It also allows specifying the effect size (delta), distribution shape (gamma), and correlation (rho) to use in simulating the data.
 
