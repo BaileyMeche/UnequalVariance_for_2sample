@@ -1,4 +1,4 @@
-# UnequalVariance_for_2sample
+# UnequalVariance_for_two_sample
 
 ## Partially Overlapping Data Power Simulation
 
