@@ -32,3 +32,5 @@ The code is structured into sections:
 - Execute simulation and export results
 
 The code allows easily modifying the parameters and tests evaluated. It outputs a tidy summary of power results across different scenarios that can be further analyzed in an Excel file. 
+
+*Warning*: If running this code on a Jupyter Notebook, the final executing loop may need to be split over multiple code blocks to avoid storage issues. 
